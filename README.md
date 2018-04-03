@@ -1,2 +1,2 @@
 # AStar
-Astar Algorithm implementation
+Astar Algorithm implementation using java
